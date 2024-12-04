@@ -1,1 +1,2 @@
 file_group_test1.txt
+added more text to the file
